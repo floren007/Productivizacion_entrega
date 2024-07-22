@@ -1,3 +1,4 @@
 ConfigLogisticRegression:
   test_size: 0.3
   seed: 99
+  model_name: IrisGarciaMartinez
